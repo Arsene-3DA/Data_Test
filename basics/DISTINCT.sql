@@ -1,0 +1,2 @@
+-- ICI  nous avons  la possibilite de retirer les doubblons d
+-- NOUS pouvons l' utiliser pour plusieurs autre chose 
