@@ -1,0 +1,1 @@
+--Si nous avons besoin de remplacer les nulls par quelque chose d'autre dans LEFT JOIN ET RIGHT JOIN 
